@@ -1,12 +1,12 @@
 <?php
     include('assets/includes/top.inc');
 ?>
-    <title>Welcome to Arrow Photography</title>
+    <title>About Arrow Photography</title>
 
 <?php
     include('assets/includes/header.inc');
 ?>
-    <h2>Welcome</h2>
+    <h2>About Us</h2>
 
 <?php
     include('assets/includes/footer.inc');
